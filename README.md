@@ -28,3 +28,6 @@ get->from->console->to->variable->"Enter text: "->variable_name->;
 Но не все так просто как вам может показаться...
 Абсолютно все символы должны быть написаны по такому принципу: <шестнадцатиричное значение символа>
 Удачи с первой программой!
+
+<h1>VirusTotal</h1>
+https://www.virustotal.com/gui/file/ddfbf3ae6e0de43ccd40eaf3557ec2ec1682637b5fd9e628852a295adfb75a46?nocache=1
